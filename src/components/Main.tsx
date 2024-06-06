@@ -42,10 +42,18 @@ export const Main = () => {
             />
           </h2>
           <div className="flex justify-between pt-6 max-w-[200px] w-full">
-            <FaTwitter className="cursor-pointer" size={20} />
-            <FaFacebookF className="cursor-pointer" size={20} />
-            <FaInstagram className="cursor-pointer" size={20} />
-            <FaLinkedinIn className="cursor-pointer" size={20} />
+            <a href="https://x.com/Spidermand68">
+              <FaTwitter className="cursor-pointer" size={20} />
+            </a>
+            <a href="https://www.facebook.com/profile.php?id=100030035115842">
+              <FaFacebookF className="cursor-pointer" size={20} />
+            </a>
+            <a href="https://www.instagram.com/swazi_spider/">
+              <FaInstagram className="cursor-pointer" size={20} />
+            </a>
+            <a href="https://www.linkedin.com/in/simphiwe-dlamini-b061b6161/">
+              <FaLinkedinIn className="cursor-pointer" size={20} />
+            </a>
           </div>
         </div>
       </div>
