@@ -25,9 +25,16 @@ const data = [
   {
     year: 2023,
     title: "Part-Time Software Tester",
-    duration: "Current Postiion",
+    duration: "1 Year",
     details:
       "Assess Software Applications for clients to make sure that the application is performing to the clients requirements ",
+  },
+  {
+    year: 2024,
+    title: "Networking Technician",
+    duration: "Current Position",
+    details:
+      "Executing Networking Solutions and Documentation to ensure successful connections",
   },
 ];
 
