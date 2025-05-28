@@ -30,7 +30,7 @@ const data = [
       "Assess Software Applications for clients to make sure that the application is performing to the clients requirements ",
   },
   {
-    year: 2024 - 2025,
+    year: 2024,
     title: "Networking Technician",
     duration: "> 1 year",
     details:
