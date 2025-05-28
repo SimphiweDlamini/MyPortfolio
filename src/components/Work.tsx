@@ -30,9 +30,9 @@ const data = [
       "Assess Software Applications for clients to make sure that the application is performing to the clients requirements ",
   },
   {
-    year: 2024,
+    year: 2024 - 2025,
     title: "Networking Technician",
-    duration: "Current Position",
+    duration: "> 1 year",
     details:
       "Executing Networking Solutions and Documentation to ensure successful connections",
   },
