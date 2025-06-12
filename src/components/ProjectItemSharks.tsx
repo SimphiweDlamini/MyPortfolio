@@ -3,7 +3,7 @@ interface ProjectItemProps {
   title: string;
 }
 
-const ProjectItem = ({ img, title }: ProjectItemProps) => {
+const ProjectItemSharks = ({ img, title }: ProjectItemProps) => {
   return (
     <div className="relative flex items-center h-auto w-full shadow-lg shadow-gray-400 rounded-xl group hover:bg-gradient-to-r from-gray-200 to-[#001b5e]">
       <img
@@ -15,7 +15,7 @@ const ProjectItem = ({ img, title }: ProjectItemProps) => {
         <h3 className="text-2xl font-bold text-white tracking-wider text-center">
           {title}
         </h3>
-        <a href="https://game-hub-one-nu.vercel.app/">
+        <a href="https://sharks-swimming-club.vercel.app/">
           <p className="text-center p-3 rounded-lg bg-white text-gray-700 font-bold cursor-pointer text-lg">
             Visit
           </p>
@@ -25,4 +25,4 @@ const ProjectItem = ({ img, title }: ProjectItemProps) => {
   );
 };
 
-export default ProjectItem;
+export default ProjectItemSharks;

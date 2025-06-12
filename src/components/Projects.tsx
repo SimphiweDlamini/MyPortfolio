@@ -1,5 +1,7 @@
-import ProjectItem from "./ProjectItem";
 import gameHubImg from "../assets/Gamehub.png";
+import sharksImg from "../assets/Sharks.png";
+import ProjectItemGameHub from "./ProjectItemGameHub";
+import ProjectItemSharks from "./ProjectItemSharks";
 
 const Projects = () => {
   return (
@@ -9,7 +11,8 @@ const Projects = () => {
       </h1>
       <p className="text-center py-8"></p>
       <div className="grid sm:grid-cols-2 gap-12 ">
-        <ProjectItem img={gameHubImg} title="Game Hub" />
+        <ProjectItemGameHub img={gameHubImg} title="Game Hub" />
+        <ProjectItemSharks img={sharksImg} title="Sharks Website" />
       </div>
     </div>
   );
