@@ -15,7 +15,7 @@ const ProjectItemSharks = ({ img, title }: ProjectItemProps) => {
         <h3 className="text-2xl font-bold text-white tracking-wider text-center">
           {title}
         </h3>
-        <a href="https://sharks-swimming-club.vercel.app/">
+        <a href="https://www.sharks-swim-club-eswatini.com/">
           <p className="text-center p-3 rounded-lg bg-white text-gray-700 font-bold cursor-pointer text-lg">
             Visit
           </p>
