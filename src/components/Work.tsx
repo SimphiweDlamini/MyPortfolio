@@ -36,6 +36,13 @@ const data = [
     details:
       "Executing Networking Solutions and Documentation to ensure successful connections",
   },
+  {
+    year: 2026,
+    title: "Assistant IT Clerk",
+    duration: "Current",
+    details:
+      "Manage daily technology support tasks, troubleshoots hardware and software issues, maintains systems, and assists users in a professional environment.",
+  },
 ];
 
 const Work = () => {
