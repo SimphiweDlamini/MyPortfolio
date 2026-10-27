@@ -1,7 +1,11 @@
 import gameHubImg from "../assets/Gamehub.png";
 import sharksImg from "../assets/Sharks.png";
+import wattupImg from "../assets/WattsUp.png";
+import mordersImg from "../assets/MormondOrders.png";
 import ProjectItemGameHub from "./ProjectItemGameHub";
+import ProjectItemMormondOrders from "./ProjectItemMormondOrders";
 import ProjectItemSharks from "./ProjectItemSharks";
+import ProjectItemWattsUp from "./ProjectItemWattsUp";
 
 const Projects = () => {
   return (
@@ -13,6 +17,11 @@ const Projects = () => {
       <div className="grid sm:grid-cols-2 gap-12 ">
         <ProjectItemGameHub img={gameHubImg} title="Game Hub" />
         <ProjectItemSharks img={sharksImg} title="Sharks Website" />
+        <ProjectItemWattsUp img={wattupImg} title="Watts Up Solar Website" />
+        <ProjectItemMormondOrders
+          img={mordersImg}
+          title="Mormond Orders System"
+        />
       </div>
     </div>
   );

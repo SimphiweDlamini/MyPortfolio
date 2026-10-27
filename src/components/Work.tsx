@@ -39,9 +39,9 @@ const data = [
   {
     year: 2026,
     title: "Assistant IT Clerk",
-    duration: "Current",
+    duration: "~ 1 Year",
     details:
-      "Manage daily technology support tasks, troubleshoots hardware and software issues, maintains systems, and assists users in a professional environment.",
+      "Manage daily technology support tasks, troubleshoots hardware and software issues, maintains and develop systems for company effeciancy, and assists users in a professional environment.",
   },
 ];
 
