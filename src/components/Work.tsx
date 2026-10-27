@@ -31,7 +31,7 @@ const data = [
   },
   {
     year: 2024,
-    title: "Networking Technician",
+    title: "Assistant Networking Technician",
     duration: "> 1 year",
     details:
       "Executing Networking Solutions and Documentation to ensure successful connections",
