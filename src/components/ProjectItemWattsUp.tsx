@@ -15,7 +15,7 @@ const ProjectItemWattsUp = ({ img, title }: ProjectItemProps) => {
         <h3 className="text-2xl font-bold text-white tracking-wider text-center">
           {title}
         </h3>
-        <a href="https://www.wattsupsolar.app/">
+        <a href="https://www.wattsupsolar.vercel.app/">
           <p className="text-center p-3 rounded-lg bg-white text-gray-700 font-bold cursor-pointer text-lg">
             Visit
           </p>
